@@ -11,11 +11,11 @@ Perform an automated health and security audit of a remote Windows endpoint usin
 - Host machine
 - PowerShell Core
 
-### Target
+### Targets
 
 - Windows 10
 - IP: 192.168.56.125
-
+- IP: 192.168.56.127
 ## Technologies
 
 - PowerShell
