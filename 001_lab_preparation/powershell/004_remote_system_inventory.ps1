@@ -31,7 +31,8 @@ Invoke-Command -Session $Session -ScriptBlock {
         LastBoot = $OS.LastBootUpTime
     }
 
-}
-
 # Close Session
 Remove-PSSession  $Session
+
+}
+
