@@ -46,3 +46,12 @@ Monitor critical Windows services remotely and automatically recover failed serv
 - Incident Detection
 - Auto Remediation
 - Infrastructure Automation
+• PowerShell Remoting
+• WinRM Administration
+• Windows Service Monitoring
+• Infrastructure Health Auditing
+• Multi-Server Administration
+• CSV Reporting
+• JSON Reporting
+• Remote System Administration
+• Infrastructure Automation

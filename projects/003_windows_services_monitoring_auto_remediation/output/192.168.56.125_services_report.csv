@@ -1,0 +1,5 @@
+"Name","Status","StartType","PSComputerName","RunspaceId","PSShowComputerName"
+"WinRM","Running","Automatic","192.168.56.125","f4fe91f8-47c0-40fa-a4cd-5968b8d50797","True"
+"Spooler","Running","Automatic","192.168.56.125","f4fe91f8-47c0-40fa-a4cd-5968b8d50797","True"
+"W32Time","Running","Manual","192.168.56.125","f4fe91f8-47c0-40fa-a4cd-5968b8d50797","True"
+"EventLog","Running","Automatic","192.168.56.125","f4fe91f8-47c0-40fa-a4cd-5968b8d50797","True"

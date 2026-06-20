@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "WinRM",
+    "Status": {
+      "value": 4,
+      "Value": "Running"
+    },
+    "StartType": {
+      "value": 2,
+      "Value": "Automatic"
+    },
+    "PSComputerName": "192.168.56.125",
+    "RunspaceId": "f4fe91f8-47c0-40fa-a4cd-5968b8d50797",
+    "PSShowComputerName": true
+  },
+  {
+    "Name": "Spooler",
+    "Status": {
+      "value": 4,
+      "Value": "Running"
+    },
+    "StartType": {
+      "value": 2,
+      "Value": "Automatic"
+    },
+    "PSComputerName": "192.168.56.125",
+    "RunspaceId": "f4fe91f8-47c0-40fa-a4cd-5968b8d50797",
+    "PSShowComputerName": true
+  },
+  {
+    "Name": "W32Time",
+    "Status": {
+      "value": 4,
+      "Value": "Running"
+    },
+    "StartType": {
+      "value": 3,
+      "Value": "Manual"
+    },
+    "PSComputerName": "192.168.56.125",
+    "RunspaceId": "f4fe91f8-47c0-40fa-a4cd-5968b8d50797",
+    "PSShowComputerName": true
+  },
+  {
+    "Name": "EventLog",
+    "Status": {
+      "value": 4,
+      "Value": "Running"
+    },
+    "StartType": {
+      "value": 2,
+      "Value": "Automatic"
+    },
+    "PSComputerName": "192.168.56.125",
+    "RunspaceId": "f4fe91f8-47c0-40fa-a4cd-5968b8d50797",
+    "PSShowComputerName": true
+  }
+]
