@@ -13,9 +13,9 @@ foreach ($pc in $TargetsIP) {
         -ComputerName $pc `
         -Credential $Credential
         Write-Host "=== Conexion Established on $pc ===" -ForegroundColor Cyan
-        Get-PSSession    
+    $Session    
     }
 # Remove Sessions
 Get-PSSession | Remove-PSSession
-Get-PSSession
 Write-Host "Sessions are closed...!" -ForegroundColor Cyan
+Get-PSSession

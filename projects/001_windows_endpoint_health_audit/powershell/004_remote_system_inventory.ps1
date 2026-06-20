@@ -10,7 +10,7 @@ $credential = Get-Credential
 $Session = New-PSSession `
     -ComputerName $targetIP `
     -Credential $credential
-    Write-Host " ======= Connecting to remote computer ==========" -ForegroundColor Cyan
+    Write-Host " ======= Connecting to remote computer =========" -ForegroundColor Cyan
 
 # Collect Information System
 Invoke-Command -Session $Session -ScriptBlock {

@@ -8,7 +8,7 @@ Monitor critical Windows services remotely and automatically recover failed serv
 
 ### Controller
 
-- Rocky Linux
+- Windows Host Machine
 - PowerShell Core
 
 ### Target
