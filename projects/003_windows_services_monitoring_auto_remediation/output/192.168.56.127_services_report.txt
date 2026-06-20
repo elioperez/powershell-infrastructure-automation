@@ -1,0 +1,25 @@
+
+Name           : WinRM
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.127
+RunspaceId     : 963274c3-e8a1-47ed-b0c1-8fc12a94d94a
+
+Name           : Spooler
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.127
+RunspaceId     : 963274c3-e8a1-47ed-b0c1-8fc12a94d94a
+
+Name           : W32Time
+Status         : Running
+StartType      : Manual
+PSComputerName : 192.168.56.127
+RunspaceId     : 963274c3-e8a1-47ed-b0c1-8fc12a94d94a
+
+Name           : EventLog
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.127
+RunspaceId     : 963274c3-e8a1-47ed-b0c1-8fc12a94d94a
+

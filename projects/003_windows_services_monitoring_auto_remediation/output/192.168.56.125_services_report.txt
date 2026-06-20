@@ -1,0 +1,25 @@
+
+Name           : WinRM
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.125
+RunspaceId     : fbdcf695-380e-4271-8bd2-571d2b339191
+
+Name           : Spooler
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.125
+RunspaceId     : fbdcf695-380e-4271-8bd2-571d2b339191
+
+Name           : W32Time
+Status         : Running
+StartType      : Manual
+PSComputerName : 192.168.56.125
+RunspaceId     : fbdcf695-380e-4271-8bd2-571d2b339191
+
+Name           : EventLog
+Status         : Running
+StartType      : Automatic
+PSComputerName : 192.168.56.125
+RunspaceId     : fbdcf695-380e-4271-8bd2-571d2b339191
+

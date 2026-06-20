@@ -37,6 +37,10 @@ foreach ($pc in $TargetIP){
     ConvertTo-Json |
     Out-File `
     "D:\powershell-infrastructure-automation\projects\003_windows_services_monitoring_auto_remediation\output\$($pc)_services_report.json" `
+
+    $Report | 
+    Out-File `
+    "D:\powershell-infrastructure-automation\projects\003_windows_services_monitoring_auto_remediation\output\$($pc)_services_report.txt"
     
     Get-PSSession | Remove-PSSession
     Write-Host "=== Session Closed ===" -ForegroundColor Cyan
