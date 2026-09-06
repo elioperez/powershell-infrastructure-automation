@@ -27,8 +27,8 @@ foreach ($pc in $TargetIP){
 
     [PSCustomObject]@{
         ComputerName = $env:COMPUTERNAME
-        AdapterCount = $Adpaters.count
-        ActiveAdapters = ($Adpaters | Where-Object {$_.status -eq "Up"}).Count
+        AdapterCount = $Adapters.count
+        ActiveAdapters = ($Adapters | Where-Object {$_.Status -eq "UP"}).count
         IPv4Addresses = $Configuration.IPv4Address.IPAddress
         DefaultGateways = $Configuration.IPv4DefaultGateway.NextHop
     }
